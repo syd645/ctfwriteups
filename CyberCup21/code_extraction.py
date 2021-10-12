@@ -1,4 +1,5 @@
 #bloos world color code
+#Getting the hex color codes from the text file holding the HTML
 
 lines = []
 codes = []
