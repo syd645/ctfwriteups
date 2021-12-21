@@ -23,7 +23,7 @@ Which I then changed to:
 <a class="btn btn-primary btn-lg" href="#"......
 ```
 
-This allowed me to press the button, which caused a Popup at the top of the screen.
+This allowed me to press the button, which caused a popup at the top of the screen.
     
 ![](images/extra_flag_popup.JPG)
     
