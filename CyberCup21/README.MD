@@ -14,8 +14,8 @@ So I then copied all of the lines with the hex codes into a text file, html_base
 After that, I wrote a python script to exctract just the codes from each line and covert from hex and print it out. 
 
 The first few lines of output are:
-'''
-Lor
+
+'''Lor
 em 
 ips
 um 
@@ -33,8 +33,7 @@ ipi
 sci
 ng 
 eli
-t. 
-'''
+t. '''
 
 But when you scroll to the very bottom of the out put, the last few lines are:
 '''
