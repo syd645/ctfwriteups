@@ -12,6 +12,7 @@ When looking at the source code, you can see that there is a "logo_video" ID tag
 
 When this barcode is scanned with a phone app, you get:
 
+_CTF{bloo_has_a_barcode}_
 
 
 
