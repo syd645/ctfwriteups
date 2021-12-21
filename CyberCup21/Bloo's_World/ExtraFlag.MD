@@ -10,3 +10,17 @@ So I looked at the source code to see if I could enable the button. I found the 
 
 ![](images/extra_html_1.JPG)
 
+
+The particlar place I looked at was:
+
+_<a class="btn btn-primary btn-lg disabled" href="#" onclick="var key = this.id.split('flag')[1]; _
+
+Which I then changed to: 
+
+_<a class="btn btn-primary btn-lg" href="#" onclick="var key = this.id.split('flag')[1]; _
+
+This allowed me to press the button, which caused a Popup at the top of the screen.
+    
+![](images/extra_flag_popup.JPG)
+    
+    
