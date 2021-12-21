@@ -13,11 +13,11 @@ So I looked at the source code to see if I could enable the button. I found the 
 
 The particlar place I looked at was:
 
-_<a class="btn btn-primary btn-lg disabled" href="#" _
+_<a class="btn btn-primary btn-lg disabled" href="#"_
 
 Which I then changed to: 
 
-_<a class="btn btn-primary btn-lg" href="#" _
+_<a class="btn btn-primary btn-lg" href="#"_
 
 This allowed me to press the button, which caused a Popup at the top of the screen.
     
