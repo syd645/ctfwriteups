@@ -3,3 +3,4 @@ This contains the writeups for the Cyber Cup Challenge at the National Cyber Sum
 **Challenges:**
 
 * [Bloo's World](https://github.com/syd645/ctfwriteups/tree/main/CyberCup21/Bloo's_World)
+* [Web Explotation - First Steps](https://github.com/syd645/ctfwriteups/tree/main/CyberCup21/WebExplotationFirstSteps)
