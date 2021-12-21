@@ -6,7 +6,11 @@ So, from the first subchallenge, we know that is will be somewhere on the Home P
 
 ![](images/home_page.JPG)
 
-When looking at the source code, you can see that there is a "logo_video" ID tag, and under it is the blue character seen in the right corner of the Home Page. When you veiw the video in a new tab, it plays and at the end, there is a barcode. 
+When looking at the source code, you can see that there is a "logo_video" ID tag, and under it is the blue character seen in the right corner of the Home Page. 
+
+![](images/animate_html.JPG)
+
+When you veiw the video in a new tab, it plays and at the end, there is a barcode. 
 
 ![](images/bloo_barcode.JPG)
 
