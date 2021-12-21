@@ -15,7 +15,8 @@ After that, I wrote a python script to exctract just the codes from each line an
 
 The first few lines of output are:
 
-'''Lor
+```
+Lor
 em 
 ips
 um 
@@ -33,10 +34,12 @@ ipi
 sci
 ng 
 eli
-t. '''
+t. 
+```
 
 But when you scroll to the very bottom of the out put, the last few lines are:
-'''
+
+```
 C
 ong
 rat
@@ -59,7 +62,7 @@ _re
 d_p
 urp
 le}
-'''
+```
 
 When this is cleaned up, it reads:
 
