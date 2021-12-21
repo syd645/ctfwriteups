@@ -2,4 +2,4 @@ This contains the writeups for the Cyber Cup Challenge at the National Cyber Sum
 
 **Challenges:**
 
-*[Bloo's World](https://github.com/syd645/ctfwriteups/blob/main/CyberCup21/BloosWorld.MD)
+* [Bloo's World](https://github.com/syd645/ctfwriteups/blob/main/CyberCup21/BloosWorld.MD)
