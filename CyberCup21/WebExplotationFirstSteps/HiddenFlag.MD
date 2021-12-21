@@ -3,4 +3,9 @@ Find the Hidden Flag #1 stated:
  
  The Home Page looked like this, so I decided to check the source code for any information.
  
+ ![](images/FirstStepsHomePage.JPG)
+ 
+ When looking at the source code, I found the following, giving me the flag. 
+ 
+ ![](images/hiddenFlagHTML.JPG)
  
