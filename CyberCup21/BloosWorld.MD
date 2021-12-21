@@ -11,7 +11,7 @@ This is the beginning of the HTML for the color blocks.
 
 So I then copied all of the lines with the hex codes into a text file, html_base.txt. 
 
-After that, I wrote a python script to exctract just the codes from each line and covert from hex and print it out. 
+After that, I wrote a python script, code_extraction.py, to extract just the codes from each line and covert from hex and print it out. 
 
 ```
 #bloos world color code
