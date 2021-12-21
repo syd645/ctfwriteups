@@ -4,7 +4,7 @@ _Wait.. an extra flag? That means we missed the first flag! Where could it be?_
 
 So, from the first subchallenge, we know that is will be somewhere on the Home Page.
 
-![](CyberCup21/images/home_page.JPG)
+![](main/CyberCup21/images/home_page.JPG)
 
 When looking at the source code, you can see that there is a "logo_video" ID tag, and under it is the blue character seen in the right corner of the Home Page. When you veiw the video in a new tab, it plays and at the end, there is a barcode. 
 
