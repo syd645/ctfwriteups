@@ -9,13 +9,13 @@ When you clicked on the Login Button in the upper right corner, you are prompted
 
 ![](images/loginpage.JPG)
 
-As shown, a username, password and token are needed. The username and password are given on the Home Page as admin and admin, so all that is needed is the token. 
+As shown a username, password and token are needed. The username and password are given on the Home Page as admin and admin, so all that is needed is the token. 
 
 I looked at the Register Page to see how someone gets a token, so I went through the process and made an account on the page below.
 
 ![](images/registerPage.JPG)
 
-When I clicked on Next it took me to this page.
+When I clicked on Register it took me to this page.
 
 ![](images/authPage.JPG)
 
